@@ -1,0 +1,46 @@
+
+
+.section1 {
+    background-color: #1F2937;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 32px;
+}
+
+.container1{
+    background-color: #1F2937;
+    display:flex;
+    flex-direction: row;
+    
+    padding: 32px;
+}
+
+.placeholder{
+    display: flex;
+    height: 150px;
+    width: 300px;
+    background-color: grey;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.section3{
+    background-color: #E5E7EB;
+}
+
+
+.footer{
+    background-color: #1F2937;
+}
+
+a, p{
+    font-weight: 18px;
+    color:#E5E7EB;
+}
+
+h2{
+    display: flex;
+    
+}
