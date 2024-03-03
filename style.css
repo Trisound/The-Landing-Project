@@ -4,16 +4,24 @@
     background-color: #1F2937;
     display:flex;
     flex-direction: row;
-    justify-content: space-evenly;
-    padding: 32px;
+    justify-content: space-between;
+    padding: 8px;
 }
 
 .container1{
     background-color: #1F2937;
     display:flex;
     flex-direction: row;
-    
+    color:white;
     padding: 32px;
+    
+}
+
+.button{
+    height: auto;
+    width: 50px;
+    background-color: #3882f6;
+    padding: 0%;
 }
 
 .placeholder{
@@ -38,6 +46,7 @@
 a, p{
     font-weight: 18px;
     color:#E5E7EB;
+    
 }
 
 h2{
